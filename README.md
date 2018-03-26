@@ -10,6 +10,7 @@
 <a href="https://scrutinizer-ci.com/g/overtrue/easy-sms/?branch=master"><img src="https://scrutinizer-ci.com/g/overtrue/easy-sms/badges/coverage.png?b=master" alt="Code Coverage"></a>
 <a href="https://packagist.org/packages/overtrue/easy-sms"><img src="https://poser.pugx.org/overtrue/easy-sms/downloads" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/overtrue/easy-sms"><img src="https://poser.pugx.org/overtrue/easy-sms/license" alt="License"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fovertrue%2Feasy-sms?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fovertrue%2Feasy-sms.svg?type=shield"/></a>
 </p>
 
 <p align="center">
@@ -432,3 +433,6 @@ $easySms->send(13188888888, $message);
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fovertrue%2Feasy-sms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fovertrue%2Feasy-sms?ref=badge_large)
